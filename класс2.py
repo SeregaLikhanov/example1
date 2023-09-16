@@ -1,5 +1,7 @@
+a = 7 ** 5
+b = a / 2 
+c = b * -2
+print (c)
 
-name = input("input name pet: ")
-typePet = input("Input type pet: ")
-age = input("input age pet: ")
-print("This", typePet, "his name is", name, "to him", age, "years")
+
+
